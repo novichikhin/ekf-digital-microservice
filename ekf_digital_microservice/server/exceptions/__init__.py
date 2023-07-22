@@ -1,0 +1,4 @@
+from ekf_digital_microservice.server.exceptions.user import UserNotFound
+from ekf_digital_microservice.server.exceptions.subscription import SubscriptionNotFound
+from ekf_digital_microservice.server.exceptions.post import PostNotFound
+from ekf_digital_microservice.server.exceptions.digest import DigestNotFound

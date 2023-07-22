@@ -1,0 +1,1 @@
+from ekf_digital_microservice.server.enums.popularity import Popularity
